@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **Ishikajoshi1220@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact **I love folding origami!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
