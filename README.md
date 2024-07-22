@@ -45,8 +45,6 @@
  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
-![image](https://github.com/user-attachments/assets/55388cc6-3e59-4ada-98b5-b1a41358dae2)
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=24ishika&show_icons=true&locale=en&layout=compact" alt="24ishika" /></p>
 
